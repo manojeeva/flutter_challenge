@@ -1,4 +1,6 @@
 # Flutter Challenge
+## Reveal Password Animation
+![Reveal Password](https://github.com/manojeeva/flutter_challenge/blob/master/reveal_password.gif)
 ## Profile View
 ![profile](https://github.com/manojeeva/flutter_challenge/blob/master/profile.jpg)
 ## Authenticaton View
