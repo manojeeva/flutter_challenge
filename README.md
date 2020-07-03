@@ -1,6 +1,6 @@
 # Flutter Challenge
 ## Humidity Controller Animation
-![Humidity](hhttps://github.com/manojeeva/flutter_challenge/blob/master/humidity.gif)
+![Humidity](https://github.com/manojeeva/flutter_challenge/blob/master/humidity.gif)
 ## Reveal Password Animation
 ![Reveal Password](https://github.com/manojeeva/flutter_challenge/blob/master/reveal_password/reveal_password.gif)
 ## Profile View
